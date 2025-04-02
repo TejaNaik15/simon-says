@@ -61,5 +61,5 @@ Open a pull request 📩
 
 ## 🙋 AUTHOR
 - **TEJA**
-Simon Game Developer
+- Simon Game Developer
 
