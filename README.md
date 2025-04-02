@@ -13,3 +13,16 @@ A classic Simon Game built with HTML, CSS, and JavaScript (using jQuery). This m
 - **CSS3 for styling**
 - **JavaScript with jQuery for functionality**
 - **Audio for sound effects**
+
+## HOW TO PLAY
+- **Start the Game**: Press any key to begin.
+
+- **Follow the Sequence**: Watch the flashing colors and listen to the sounds.
+
+- **Repeat the Sequence**: Click the colored buttons in the same order.
+
+- **Advance Levels**: Correct sequences will increase the difficulty.
+
+- **Game Over**: If you click the wrong button, the game ends. Press any key to restart.
+
+
