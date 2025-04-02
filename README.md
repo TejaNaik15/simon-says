@@ -25,4 +25,16 @@ A classic Simon Game built with HTML, CSS, and JavaScript (using jQuery). This m
 
 - **Game Over**: If you click the wrong button, the game ends. Press any key to restart.
 
+## SOUND EFFECTS
+The game includes sound effects for each color and a "wrong" sound when the player makes a mistake.
+- **red.mp3**
+
+- **blue.mp3**
+
+- **green.mp3**
+
+- **yellow.mp3**
+
+- **wrong.mp3**
+
 
