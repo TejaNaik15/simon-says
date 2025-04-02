@@ -37,4 +37,29 @@ The game includes sound effects for each color and a "wrong" sound when the play
 
 - **wrong.mp3**
 
+## FUTURE IMPROVEMENTS
+- **Add a high-score tracker**
+
+- **Implement difficulty levels**
+
+- **Enhance mobile responsiveness**
+
+- **Add animations for smoother transitions**
+
+## CONTRIBUTE
+Fork the repo 🚀
+
+Create a new branch 🧪
+
+Make your changes ✏️
+
+Commit your changes 💾
+
+Push to your forked repo ⬆️
+
+Open a pull request 📩
+
+## 🙋 AUTHOR
+KELOTH TEJA NAIK
+SIMON GAME DEVELOPER
 
