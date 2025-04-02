@@ -60,6 +60,6 @@ Push to your forked repo ⬆️
 Open a pull request 📩
 
 ## 🙋 AUTHOR
-KELOTH TEJA NAIK
-SIMON GAME DEVELOPER
+- **TEJA**
+Simon Game Developer
 
